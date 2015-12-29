@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Transporter_Server_Android_Processing_NoAudio_Queue.iml" filepath="$PROJECT_DIR$/Transporter_Server_Android_Processing_NoAudio_Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opencv-app/opencv-app.iml" filepath="$PROJECT_DIR$/opencv-app/opencv-app.iml" />
+    </modules>
+  </component>
+</project>

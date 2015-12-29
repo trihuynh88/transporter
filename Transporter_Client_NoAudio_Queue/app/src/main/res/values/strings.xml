@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Transporter_Client</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="ip_add">robotbase.ddns.net</string>
+    <string name="ip_port">2222</string>
+    <string name="title_activity_cam_view">CamViewActivity</string>
+</resources>

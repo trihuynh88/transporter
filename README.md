@@ -6,4 +6,4 @@ The code is organized as follows:
 - "board": Contains the code for the linux-based device.
 - "Transporter_Server_Android_Processing_NoAudio_Queue": Code for user's mobile phone, which connects to the linux-based device for receiving captured video, perform realtime processing and then send to the intermediate server.
 - "Transporter_Central_Server_NoProcessing_NoAudio_Queue": Code for the intermediate server, which receives data from user's mobile phone.
-- Transporter_Client_NoAudio_Queue: The ending client phone, which connects to the intermediate server and retrieves 3D video to view in Google Cardboard.
+- "Transporter_Client_NoAudio_Queue": The ending client phone, which connects to the intermediate server and retrieves 3D video to view in Google Cardboard.
